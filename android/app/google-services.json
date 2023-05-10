@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574079429333",
+    "project_id": "flutterstoryapp",
+    "storage_bucket": "flutterstoryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574079429333:android:f7bf82164a65dee87d105c",
+        "android_client_info": {
+          "package_name": "com.anshu_jaiswal.storyapp.flutter_story_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574079429333-s90ikjo74f8ggju6fcmmeo4htn4u7ard.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbwuqSDpF9CPKmC2hCfvvNOr4UweER4Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574079429333-s90ikjo74f8ggju6fcmmeo4htn4u7ard.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
